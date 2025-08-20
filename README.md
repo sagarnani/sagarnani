@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarnani
+- 👋 Hi, I’m @sagar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science
